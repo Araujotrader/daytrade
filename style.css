@@ -8,7 +8,7 @@ html * {
 
 body {
     /* COR DE FUNDO */
-    background-color: #111111;
+    background-color: #101010;
 }
 
 #logotipo {
@@ -29,10 +29,10 @@ body {
     gap: 20px;
 }
 #menu{
-    background-color: #593806;
+    background-color: #17133d;
     margin-bottom: 18px;
-    border-top: 10px solid #3f2702;
-    border-bottom: 10px solid #3f2702;
+    border-top: 10px solid #2A2375;
+    border-bottom: 10px solid #2A2375;
     padding: 10px;
 
     display: grid;
