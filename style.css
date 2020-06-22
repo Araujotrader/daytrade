@@ -10,6 +10,9 @@ body {
     /* COR DE FUNDO */
     background-color: #101010;
 }
+h2 {
+    color:whitesmoke;
+}
 
 #logotipo {
     /* LARGURA DO LOGOTIPO */
@@ -27,6 +30,7 @@ body {
 
     /* ESPAÇAMENTO ENTRE COLUNAS E LINHAS DO GRID */
     gap: 20px;
+    text-align: center;
 }
 #menu{
     background-color: #17133d;
@@ -44,4 +48,15 @@ body {
     color: whitesmoke;
     text-transform: uppercase;
     text-decoration: none;
+}
+.rodape{
+    background-color: #17133d;
+    margin-bottom: 18px;
+    border-top: 10px solid #2A2375;
+    border-bottom: 10px solid #2A2375;
+    padding: 10px;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
 }
