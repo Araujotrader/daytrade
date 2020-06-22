@@ -49,6 +49,10 @@ h2 {
     text-transform: uppercase;
     text-decoration: none;
 }
+#menu :hover{
+    background-color: whitesmoke;
+    color: #17133d;
+}
 .rodape{
     background-color: #17133d;
     margin-bottom: 18px;
